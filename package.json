@@ -1,10 +1,11 @@
 {
   "name": "sub2sql",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Clone a substrate chain into a SQL database.",
   "main": "index.js",
   "author": "Shelby Doolittle <shelby@shelbyd.com>",
   "license": "MIT",
+  "repository": "https://github.com/shelbyd/sub2sql",
   "scripts": {
     "sub2sql": "./index.js"
   },
