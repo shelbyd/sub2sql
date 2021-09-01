@@ -1,6 +1,6 @@
 {
   "name": "sub2sql",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Clone a substrate chain into a SQL database.",
   "main": "index.js",
   "author": "Shelby Doolittle <shelby@shelbyd.com>",
