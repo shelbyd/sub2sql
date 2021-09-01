@@ -171,7 +171,7 @@ async function insertBlockNumber(api, db, number) {
       [
         hash.toHex(),
         index,
-        extr.signer?.Id?.toHuman(),
+        extr.toHuman().signer?.Id,
         extr.nonce?.toNumber(),
         extr.method.section,
         extr.method.method,
